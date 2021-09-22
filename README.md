@@ -28,6 +28,8 @@ This should open the psql interactive shell and print a prompt that looks like:
 
 ## Installation per OS:
 
+Don't forget to set password "12345"
+
 ### MacOS:
 
 Let's walk through installing PostgreSQL with the postgresapp on Mac.
